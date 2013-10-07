@@ -12,6 +12,7 @@
 #include <fstream>		// For I/O to external files.
 #include <string>		// For string declaration and functions.
 #include <cstdlib>		// For access of standard library
+#include <cstring>
 
 // Using namespace standard
 using namespace std;
